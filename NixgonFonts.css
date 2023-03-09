@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "NixgonFonts";
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: local("닉스곤체 L 2.0"), local("닉스곤체-L-2.0"), url("NixgonFonts-Light.woff2") format("woff2"), url("NixgonFonts-Light.woff") format("woff"), url("NixgonFonts-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: "NixgonFonts";
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: local("닉스곤체 M 2.0"), local("닉스곤체-M-2.0"), url("NixgonFonts-Medium.woff2") format("woff2"), url("NixgonFonts-Medium.woff") format("woff"), url("NixgonFonts-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: "NixgonFonts";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: local("닉스곤체 B 2.0"), local("닉스곤체-B-2.0"), url("NixgonFonts-Bold.woff2") format("woff2"), url("NixgonFonts-Bold.woff") format("woff"), url("NixgonFonts-Bold.ttf") format("truetype");
+}
